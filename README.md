@@ -10,6 +10,13 @@
 - **智能文案生成**：根据商品信息生成抖音/淘宝/小红书等平台风格的商品文案
 - **AI 图片生成**：基于商品信息和参考图片生成高质量的电商宣传图
 - **多平台支持**：支持抖音、淘宝/天猫、京东、拼多多、小红书等主流电商平台
+<img width="1918" height="1614" alt="image" src="https://github.com/user-attachments/assets/57a64432-2342-4e44-b2e7-876b9b77621f" />
+<img width="1918" height="1539" alt="image" src="https://github.com/user-attachments/assets/0357af51-0175-4752-bebc-646ea2e60613" />
+<img width="1918" height="1336" alt="image" src="https://github.com/user-attachments/assets/7b3cb974-c57a-4e4c-8d1b-f2030886c2b8" />
+<img width="1918" height="1234" alt="image" src="https://github.com/user-attachments/assets/67138a33-e5ca-41e9-b9cc-0a127d892235" />
+<img width="1918" height="1158" alt="image" src="https://github.com/user-attachments/assets/e1daf39d-caa1-4a15-8a98-0306c99fdae0" />
+
+
 
 ## 技术栈
 
